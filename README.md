@@ -48,8 +48,8 @@ nmap-script smb-enum-users -iL IPList.txt -osmb-enum-users.txt	Запуск ис
 
 ```
 ## Полезные ссылки 
-https://rus-linux.net/MyLDP/admin/nmap/nmap-5-scanning-firewalls.html
-https://rus-linux.net/MyLDP/admin/nmap/nmap-6-scanning-firewalls-continued.html
-https://rus-linux.net/MyLDP/admin/nmap/nmap-7-script-scanning.html
+https://rus-linux.net/MyLDP/admin/nmap/nmap-5-scanning-firewalls.html<br>
+https://rus-linux.net/MyLDP/admin/nmap/nmap-6-scanning-firewalls-continued.html<br>
+https://rus-linux.net/MyLDP/admin/nmap/nmap-7-script-scanning.html<br>
 
 
